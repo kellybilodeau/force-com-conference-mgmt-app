@@ -13,6 +13,7 @@ public with sharing class SpeakerControllerExtension {
 
     public void increment() {
         counter++;
+        counter++;
     }
 
 }
